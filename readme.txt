@@ -10,3 +10,5 @@ git branch testingbranch testing1
 git pull origin master testing2
 git fetch
 git merge!
+testing4!
+
